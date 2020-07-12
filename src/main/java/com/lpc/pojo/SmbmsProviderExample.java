@@ -181,7 +181,6 @@ public class SmbmsProviderExample implements Serializable {
             }
             criteria.add(new Criterion(condition));
         }
-
         protected void addCriterion(String condition, Object value, String property) {
             if (value == null) {
                 throw new RuntimeException("Value for " + property + " cannot be null");

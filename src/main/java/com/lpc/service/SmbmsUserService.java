@@ -21,8 +21,6 @@ public class SmbmsUserService {
     @Autowired
     private DAO dao;
 
-
-
     public SmbmsUser login(SmbmsUser smbmsUser)  {
         try {
             SmbmsUserExample smbmsUserExample = new SmbmsUserExample();

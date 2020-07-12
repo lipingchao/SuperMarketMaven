@@ -21,7 +21,6 @@ public class CacheContextUtil implements ApplicationContextAware {
         commonApplicationContext = context;
     }
 
-
     /**
      *      * 根据提供的bean名称得到相应的服务类
      *      * @param beanId bean的id

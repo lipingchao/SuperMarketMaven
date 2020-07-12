@@ -127,6 +127,5 @@ public class DaoSupport implements DAO {
     @Override
     public Object findForMap(String str, Object obj, String key, String value) throws Exception {
         return sqlSessionTemplate.selectMap(str, obj, key);  
-    }  
-      
+    }
 }  

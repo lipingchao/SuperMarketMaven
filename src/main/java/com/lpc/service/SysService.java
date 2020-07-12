@@ -25,7 +25,6 @@ public class SysService {
     private DAO dao;
     @Autowired
     private RedisTemplate redisTemplate;
-
     /**
      * 查询列表+模糊查询
      * @param productName

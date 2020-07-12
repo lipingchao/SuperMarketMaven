@@ -93,5 +93,4 @@ public interface DAO {
      * @throws Exception
      */
     public Object batchSave(String str, List objs) throws Exception;
-
 }

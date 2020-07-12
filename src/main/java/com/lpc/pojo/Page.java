@@ -31,5 +31,4 @@ public class Page {
 		public void setCurrentpage(int currentpage) {
 			this.currentpage = currentpage;
 		}
-		
 }

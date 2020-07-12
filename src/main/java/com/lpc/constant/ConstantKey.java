@@ -8,7 +8,6 @@ package com.lpc.constant;
  * @Version 1.0 版本
  */
 public class ConstantKey {
-
     public static final String PROVIDERLIST="providerList";
     public static final String BILLLIST = "billList";
     public static final String BILLSELECT = "billselect";
