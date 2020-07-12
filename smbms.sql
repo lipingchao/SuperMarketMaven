@@ -188,3 +188,8 @@ INSERT INTO `smbms_user` VALUES (15, 'zhaomin', '赵敏', '0000000', 1, '1987-12
 INSERT INTO `smbms_user` VALUES (16, '110011', '李金超', '123456789', 1, '2020-07-06', '18311111111', '河南', 1, NULL, NULL, NULL, NULL);
 
 SET FOREIGN_KEY_CHECKS = 1;
+
+
+
+
+
